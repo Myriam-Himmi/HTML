@@ -1,0 +1,24 @@
+a:hover {
+    background-color: black;
+}
+
+
+a:link {
+text-decoration: none;
+}
+
+h1
+{
+    font-size: 10em;
+    text-align: center;
+
+}
+
+p
+{
+    position: absolute;
+    top: 76px;
+    left: 300px;
+    
+}
+
